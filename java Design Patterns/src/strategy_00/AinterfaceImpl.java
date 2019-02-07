@@ -1,4 +1,4 @@
-package strategy;
+package strategy_00;
 
 public class AinterfaceImpl implements Ainterface {
 

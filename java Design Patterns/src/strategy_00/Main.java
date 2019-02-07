@@ -1,4 +1,4 @@
-package strategy;
+package strategy_00;
 
 /**
  * xxxxxx 관한 클래스를 정의한다.
